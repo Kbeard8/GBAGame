@@ -1,2 +1,1 @@
-# GBAGame
-Game with dodging and attacking
+# GBA-Game
